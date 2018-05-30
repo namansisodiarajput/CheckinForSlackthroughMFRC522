@@ -28,7 +28,7 @@ GND     = GND
 2. library for MFRC522
 
 
-how to configure slack to get message from MFRC522
+# how to configure slack to get message from MFRC522
 1. go to -: https://slack.com/ 
  Create a Slack Workspace and go to any channel
 2. go to -: https://yourslackworkspace.com/apps/manage/custom-integrations
@@ -36,3 +36,12 @@ how to configure slack to get message from MFRC522
  ![image1](https://user-images.githubusercontent.com/19189211/40734355-cca192c4-6455-11e8-86b4-8e92017a6131.png)
 3. get incoming webhook url to post message on slack channel
 ![image2](https://user-images.githubusercontent.com/19189211/40734896-600e2562-6457-11e8-83e6-cd0ad0641639.png)
+
+
+at this point you have installed libraries for NODEMCU,MFRC522 and enable incoming webhook of your slack channel.hip hip hurray
+connect things and scan the rfid tag to see your message on slack channel.
+
+
+
+# i am big fan of anime.one piece is one of my favorite.you can mail me to get help in iot things - namansisodia619@gmail.com
+
