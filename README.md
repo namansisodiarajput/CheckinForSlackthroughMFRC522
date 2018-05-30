@@ -12,14 +12,14 @@ This is a check in system for company.where employee swap their rfid tag to post
 
 # wiring configuration between ESP8266 NODEMCU And MFRC522
 
-MFRC522 = NODEMCU
-RST     = GPIO5 D1
-SDA(SS) = GPIO4 D2
-MOSI    = GPIO13 D7
-MISO    = GPIO12 D6
-SCK     = GPIO14 D5
-GND     = GND
-3.3V    = 3.3V
+MFRC522 -> NODEMCU
+RST     -> GPIO5 D1
+SDA(SS) -> GPIO4 D2
+MOSI    -> GPIO13 D7
+MISO    -> GPIO12 D6
+SCK     -> GPIO14 D5
+GND     -> GND
+3.3V    -> 3.3V
 
 
 
@@ -39,9 +39,9 @@ GND     = GND
 
 
 at this point you have installed libraries for NODEMCU,MFRC522 and enable incoming webhook of your slack channel.hip hip hurray
-connect things and scan the rfid tag to see your message on slack channel.
+connect things,run ino file and scan the rfid tag to see your message on slack channel.
 
 
 
-# i am big fan of anime.one piece is one of my favorite.you can mail me to get help in iot things - namansisodia619@gmail.com
-
+i am big fan of anime.one piece is one of my favorite.you can mail me to get help in iot things - namansisodia619@gmail.com
+![thumb-1920-319163](https://user-images.githubusercontent.com/19189211/40735178-2516d1d8-6458-11e8-8f81-ef2e0c0ef47a.png)
