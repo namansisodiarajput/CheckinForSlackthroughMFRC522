@@ -34,4 +34,5 @@ how to configure slack to get message from MFRC522
 2. go to -: https://yourslackworkspace.com/apps/manage/custom-integrations
  enable incoming web hook for your channel( any channel you want to post message just enable incoming webhook)
  ![image1](https://user-images.githubusercontent.com/19189211/40734355-cca192c4-6455-11e8-86b4-8e92017a6131.png)
-3. 
+3. get incoming webhook url to post message on slack channel
+![image2](https://user-images.githubusercontent.com/19189211/40734896-600e2562-6457-11e8-83e6-cd0ad0641639.png)
